@@ -20,6 +20,7 @@ I'm a game programming student and technology lover!
 - Game programming student 💪
 - Coffee lover ☕
 - Studying C# and Unity at the moment 💻
+- Hobbies: learning about pixel art, 3d modeling and art concepts. 🎨
 
 ### Contact me:
 - Outlook: viniciusjung@outlook.com
