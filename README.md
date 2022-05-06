@@ -29,4 +29,5 @@ I'm a game programming student and technology lover!
 - Outlook: viniciusjung@outlook.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-jung/
 
+
 >"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
