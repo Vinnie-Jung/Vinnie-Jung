@@ -19,10 +19,10 @@ I'm a game programming student and technology lover!
  
  
 ### About me:
-- Game programming student 💪
-- Studying C# and Unity at the moment 💻
+- Programming student 💪
+- Studying C# and Unity 💻
 - Studying PHP and Laravel 💻
-- Hobbies: learning about pixel art, 3d modeling and art concepts. 🎨
+- Hobbies: learning about pixel art, drink coffee and play chess. 🎨
 
 ### Contact me:
 - Outlook: viniciusjung@outlook.com
