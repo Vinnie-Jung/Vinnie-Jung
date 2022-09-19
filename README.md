@@ -21,6 +21,7 @@ I'm a game programming student and technology lover!
 - Programming student 💪
 - Studying C# and Unity 💻
 - Studying PHP and Laravel 💻
+- Linux lover! 💻
 - Hobbies: learning about pixel art, drink coffee and play chess. 🎨
 
 ### Contact me:
