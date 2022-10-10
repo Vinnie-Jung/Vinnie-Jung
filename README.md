@@ -25,7 +25,7 @@ I'm a game programming student and technology lover!
 - Hobbies: learning about pixel art, drink coffee and play chess. 🎨
 
 ### Contact me:
-- Outlook: (mailto:viniciusjung@outlook.com)
+- Outlook: [viniciusjung@outlook.com](mailto:viniciusjung@outlook.com)
 - LinkedIn: https://www.linkedin.com/in/vinicius-jung/
 
 
