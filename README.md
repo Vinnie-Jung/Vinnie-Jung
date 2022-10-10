@@ -25,8 +25,9 @@ I'm a game programming student and technology lover!
 - Hobbies: learning about pixel art, drink coffee and play chess. 🎨
 
 ### Contact me:
-- Outlook: [viniciusjung@outlook.com](mailto:viniciusjung@outlook.com)
-- LinkedIn: https://www.linkedin.com/in/vinicius-jung/
+- [Outlook](mailto:viniciusjung@outlook.com)
+- [LinkedIn (PT-BR)](https://www.linkedin.com/in/vinicius-jung/)
+- [LinkedIn (EN)](https://www.linkedin.com/in/vinicius-jung/?locale=en_US)
 
 
 >"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
