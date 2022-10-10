@@ -11,7 +11,7 @@
 - 💼 &nbsp; Looking for opportunities.
 - 🌱 &nbsp; Learning more about PHP, Laravel and .NET.
 
-<br>
+<br><br>
 
 <h2 align="center">TECHNOLOGIES</h2>
 
