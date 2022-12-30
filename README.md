@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Vinícius Jung and be very welcome to my profile! I'm a student passionate about technology, working in the fields of web programming and game development. Currently I focus on my studies in PHP and its main framework, Laravel.
+  Hello, my name is Vinícius Jung and be very welcome to my profile! I'm a student passionate about technology, working in the fields of web programming and game development. Currently I focus on my studies in C# and ASP.NET.
 </p>
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions.
