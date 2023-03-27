@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing web solutions.
 - 🎓 &nbsp; Studying Game Design at <a href="https://univali.br/">Univali</a>.
 - 💼 &nbsp; Looking for opportunities.
-- 🌱 &nbsp; Learning more about PHP, Laravel and .NET.
+- 🌱 &nbsp; Currently studying React Native.
 
 <br><br>
 
