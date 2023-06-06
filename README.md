@@ -3,19 +3,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Vinícius Jung and be very welcome to my profile! I'm a student passionate about technology, working in the fields of web programming and game development. Currently I focus on my studies in C# and ASP.NET.
+  Hello, my name is Vinícius Jung and be very welcome to my profile! I'm a student passionate about technology, working in the fields of web programming and game development. Currently I focus on my studies in GDScript and C#.
 </p>
 
-- 🤔 &nbsp; Exploring new technologies and developing web solutions.
-- 🎓 &nbsp; Studying Game Design at <a href="https://univali.br/">Univali</a>.
-- 💼 &nbsp; Looking for opportunities.
-- 🌱 &nbsp; Currently studying React Native.
+-  &nbsp; Exploring new technologies and developing web solutions.
+-  &nbsp; Studying Game Design at <a href="https://univali.br/">Univali</a>.
+-  &nbsp; Looking for opportunities.
+-  &nbsp; Currently studying Java.
 
 <br><br>
 
 <h2 align="center">TECHNOLOGIES</h2>
 
-<h3 align="center">Languages and Engines</h3>
+<h3 align="center">Languages and Frameworks</h3>
   
 <div align="center">
   <a href="#">
@@ -23,9 +23,6 @@
 </a>
   <a href="#">
   <img src="https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=.net&logoColor=#512BD4" alt=".NET">
-</a>
-  <a href="#">
-  <img src="https://img.shields.io/badge/-Unity-333333?style=for-the-badge&logo=unity&logoColor=#FFFFFF" alt="Unity">
 </a>
   <a href="#">
   <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&logoColor=#777BB" alt="PHP">
@@ -46,7 +43,20 @@
   <a href="#">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=#1572B6" alt="CSS">
 </a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=#1572B6" alt="CSS">
+</a>
 </div>
+
+<h3 align="center">Game Engines</h3>
+<div align="center">
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Godot-333333?style=for-the-badge&logo=godot%20engine&logoColor=#1572B6" alt="CSS">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Unity-333333?style=for-the-badge&logo=unity&logoColor=#FFFFFF" alt="Unity">
+</a>
+<div>
  
 <h3 align="center">Database</h3>
  
@@ -75,17 +85,30 @@
 </a>
 </div>
   
-<h3 align="center">Development Tools</h3>
+<h3 align="center">Agiles</h3>
 
 <div align="center">
-  <a href="#">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-</a>
   <a href="#">
   <img src="https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=#0052CC" alt="Trello">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-Sublime%20Text-333333?style=for-the-badge&logo=sublime%20text&logoColor=#FF9800" alt="Sublime">
+  <img src="https://img.shields.io/badge/-ClickUp-333333?style=for-the-badge&logo=clickup&logoColor=#0052CC" alt="Clickup">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=#0052CC" alt="Jira">
+</a>
+</div>
+
+<h3 align="center">Operational Systems</h3>
+<div align="center">
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Arch%20Linux%20(Main%20OS)-333333?style=for-the-badge&logo=arch%20linux&logoColor=007ACC" alt="Arch Linux">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Linux%20(Arch%20and%20Debian%20based)-333333?style=for-the-badge&logo=linux&logoColor=007ACC" alt="Linux">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows&logoColor=007ACC" alt="Windows">
 </a>
 </div>
 
@@ -100,11 +123,8 @@
 <h2 align="center">💌 CONTACT ME ⤵️</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-jung/">
-    <img src="https://img.shields.io/badge/-Linkedin%20(PORTUGUÊS)-333333?style=for-the-badge&logo=linkedin&logoColor=#0078D4" alt="Linkedin (PT)">
-  </a>
   <a href="https://www.linkedin.com/in/vinicius-jung/?locale=en_US">
-    <img src="https://img.shields.io/badge/-Linkedin%20(ENGLISH)-333333?style=for-the-badge&logo=linkedin&logoColor=#0078D4" alt="Linkedin (EN)">
+    <img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=#0078D4" alt="Linkedin (EN)">
   </a>
   <br>
   <a href="mailto:viniciusjung@outlook.com">
