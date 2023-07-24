@@ -11,7 +11,7 @@
 -  &nbsp; Looking for opportunities.
 -  &nbsp; Currently studying Java.
 
-<br><br>
+<br><br><br>
 
 <h2 align="center">TECHNOLOGIES</h2>
 
