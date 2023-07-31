@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-Unity-333333?style=for-the-badge&logo=unity&logoColor=#FFFFFF" alt="Unity">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-renpy-333333?style=for-the-badge&logo=renpy&logoColor=#1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-Ren'py-333333?style=for-the-badge&logo=renpy&logoColor=#1572B6" alt="CSS">
 </a>
   <a href="#">
   <img src="https://img.shields.io/badge/-Unreal-333333?style=for-the-badge&logo=unreal%20engine&logoColor=#1572B6" alt="CSS">
