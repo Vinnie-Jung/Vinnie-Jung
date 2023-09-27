@@ -7,7 +7,7 @@
 <br>
 
 - Game Design Student.
-- Open-source adept.
+- Open-source enthusiast.
 - Linux lover!!!
 - I'm currently studying C++.
 - Open for a new job opportunity, this is [my resume](https://github.com/Vinnie-Jung)
