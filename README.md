@@ -1,17 +1,20 @@
-<h2 align="center">ABOUT ME</h2> <br>
+<h2 align="center">WELCOME</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> 
-  Hello, my name is Vinícius Jung and be very welcome to my profile! I'm a student passionate about technology, working in the fields of web programming and game development. Currently I focus on my studies in GDScript and C#.
-</p>
+<picture> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
 
--  &nbsp; Exploring new technologies and developing web solutions.
--  &nbsp; Studying Game Design at <a href="https://univali.br/">Univali</a>.
--  &nbsp; Looking for opportunities.
--  &nbsp; Currently studying Java.
+<br>
 
-<br><br><br>
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">TECHNOLOGIES</h2>
 
@@ -118,13 +121,38 @@
 </a>
 </div>
 
-<h3 align="center">My Stats</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--- stats start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- snake -->
 <div align="center">
-  <a href="https://github.com/Gurupreet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinnie-Jung&show_icons=true&theme=dracula&line_height=27" alt="Vinnie's github stats"/>
-  </a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">💌 CONTACT ME ⤵️</h2>
 
