@@ -22,7 +22,10 @@
   
 <div align="center">
   <a href="#">
-  <img src="https://img.shields.io/badge/-C%20sharp-333333?style=for-the-badge&logo=c%20sharp&logoColor=#239120" alt="C#">
+  <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus&logoColor=#239120" alt="C++">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-C%23-333333?style=for-the-badge&logo=c%20sharp&logoColor=#239120" alt="C#">
 </a>
   <a href="#">
   <img src="https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=.net&logoColor=#512BD4" alt=".NET">
@@ -41,7 +44,7 @@
   <img src="https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=#239120" alt="React-Native">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=#E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=#E34F26" alt="HTML5">
 </a>
   <a href="#">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=#1572B6" alt="CSS">
@@ -54,16 +57,19 @@
 <h3 align="center">Game Engines</h3>
 <div align="center">
   <a href="#">
-  <img src="https://img.shields.io/badge/-Godot-333333?style=for-the-badge&logo=godot%20engine&logoColor=#1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-Godot-333333?style=for-the-badge&logo=godot%20engine&logoColor=#1572B6" alt="GodotEngine">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-Unity-333333?style=for-the-badge&logo=unity&logoColor=#FFFFFF" alt="Unity">
+  <img src="https://img.shields.io/badge/-Unity-333333?style=for-the-badge&logo=unity&logoColor=#FFFFFF" alt="UnityEngine">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-Ren'py-333333?style=for-the-badge&logo=renpy&logoColor=#1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-Ren'py-333333?style=for-the-badge&logo=renpy&logoColor=#1572B6" alt="RenpyEngine">
 </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/-Unreal-333333?style=for-the-badge&logo=unreal%20engine&logoColor=#1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-Unreal-333333?style=for-the-badge&logo=unreal%20engine&logoColor=#1572B6" alt="UnrealEngine">
+</a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/-GameMaker-333333?style=for-the-badge&logo=gamemaker&logoColor=#1572B6" alt="GameMakerEngine">
 </a>
 <div>
  
