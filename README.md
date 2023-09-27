@@ -6,11 +6,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Game Design Student.
+- Open-source adept.
+- Linux lover!!!
+- I'm currently studying C++.
+- Open for a new job opportunity, this is [my resume](https://github.com/Vinnie-Jung)
 
 <br><br>
 
