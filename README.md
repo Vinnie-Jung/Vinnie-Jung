@@ -11,6 +11,7 @@
 - Linux lover!!!
 - I'm currently studying C++.
 - Open for a new job opportunity, this is [my resume](https://github.com/Vinnie-Jung)
+- I'm also very interested in Pixelart and 2D animation.
 
 <br><br>
 
