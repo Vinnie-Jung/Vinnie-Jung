@@ -13,6 +13,8 @@
 - Open for a new job opportunity, this is [my resume](https://github.com/Vinnie-Jung)
 - I'm also very interested in Pixelart and 2D animation.
 
+  <b>I'm currently working on a game project called</b><a href="https:github.com/Vinnie-Jung/Som-da-Escuridao"> "Som da Escuridão"</a><b>.</b>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
