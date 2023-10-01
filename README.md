@@ -162,7 +162,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">💌 CONTACT ME ⤵️</h2>
+<h2 align="center">CONTACT ME</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-jung/?locale=en_US">
